@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Rubik:wght@500&display=swap');
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: "Merriweather";
+    background-color: #D20285;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: Rubik;
+}
+
+.photo {
+    width: 30%;
+}
+
+.quote, .titulo {
+    color: white;
+}
+
+.quote {
+    margin: 50px auto;
+    width: 60%;
+}
+
+ol {
+    display: block;
+    margin: 50px auto;
+    width: 60%;
+}
+
+li {
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.2em;
+    font-family: Rubik;
+}
+
+.enfase {
+    width: 50%;
+    font-size: 2.5em;
+}
+
+footer {
+    font-family: Rubik;
+    font-size: 1.25em;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.titulo:hover {
+    color: black;
+}
