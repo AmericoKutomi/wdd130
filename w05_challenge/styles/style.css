@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+#painel {
+    margin: 0;
+}
+
+.imagem_principal {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+#seletores {
+    text-align: center;
+    background-color: gray;
+    margin: 0;
+}
+
+.icone {
+    max-width: 250px;
+    margin: 50px;
+    border-radius: 50%;
+    border: 15px solid rgb(89, 88, 88);
+}
