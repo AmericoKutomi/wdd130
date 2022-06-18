@@ -271,3 +271,67 @@ footer h3 a:hover {
         margin-top: 25px;
     }
 }
+
+/* This section is for page Rates and Dates */
+
+.rates-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.page-title {
+    grid-column: 1/4;
+}
+
+.page-title h1 {
+    margin-bottom: 10px;
+}
+
+.page-title h4 {
+    margin-top: 0px;
+}
+.activity-img {
+    border: 10px solid #b38336;
+    width: 100%;
+}
+
+.activity-one, .activity-two, .activity-three { 
+    margin: 10px auto;
+    width: 70%;
+    border: 2px solid #b38336;
+    border-radius: 5px;    
+   
+}
+
+.activity-title {
+    margin: 0px;
+}
+
+.activity-description {
+    font-size: 12px;
+    margin: 0px;
+    color: black;
+}
+
+.date_rate_items {
+    margin: 0px;
+}
+
+.reserve {
+    margin: 0px;
+}
+
+.small-description {
+    font-size: 0.5em;
+    color: black;   
+}
+
+.date-icon {
+    list-style-image: url('/images/calendar.png');
+}
+
+.money-icon {
+    list-style-image: url('/images/money.png');
+}
+
+
