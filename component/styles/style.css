@@ -5,7 +5,7 @@ body, html {
     color: #777;
   }
   
-  .bgimg-1, .bgimg-2, .bgimg-3 {
+.bgimg-1, .bgimg-2, .bgimg-3 {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -13,19 +13,19 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   
-  }
-  .bgimg-1 {
-  background-image: url("../images/img_parallax.jpg");
-  min-height: 100%;
+}
+.bgimg-1 {
+    background-image: url("../images/pexels-katerina-holmes-5905713.jpg");
+    min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("../images/img_parallax2.jpg");
+  background-image: url("../images/pexels-karolina-grabowska-4491461.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("../images/img_parallax3.jpg");
+  background-image: url("../images/pexels-vanessa-garcia-6325984.jpg");
   min-height: 400px;
 }
   
